@@ -55,3 +55,10 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "mysql",       "1.0.0"
+github "chrome",      "1.0.0"
+github "redis",       "1.0.0"
+github "imagemagick", "1.0.0"
+github "alfred",      "1.0.0"
+github "sequel_pro",  "1.0.0"
+
