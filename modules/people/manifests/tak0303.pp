@@ -11,4 +11,10 @@ class people::tak0303 {
   include sequel_pro
   include zsh
   include ohmyzsh
+
+  package {
+    "Github for Mac":
+      source => "https://github-central.s3.amazonaws.com/mac/GitHub%20for%20Mac%20163.zip",
+      provider => "compressed_app";
+  }
 }
