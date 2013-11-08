@@ -9,6 +9,6 @@ class people::tak0303 {
   include imagemagick
   include alfred
   include sequel_pro
-  include osx
   include zsh
+  include ohmyzsh
 }
