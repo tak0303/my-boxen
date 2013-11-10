@@ -109,6 +109,11 @@ GITHUBTARBALL
     sequel_pro (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-skype
+  specs:
+    skype (1.0.6)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -163,6 +168,7 @@ DEPENDENCIES
   repository (= 2.2.0)
   ruby (= 6.7.2)
   sequel_pro (= 1.0.0)
+  skype (= 1.0.6)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
   xquartz (= 1.1.0)
