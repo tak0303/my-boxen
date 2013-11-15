@@ -4,6 +4,7 @@
 class people::tak0303 {
   # include your files...
   include chrome::canary
+  include firefox
   include mysql
   include redis
   include imagemagick

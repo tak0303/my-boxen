@@ -57,6 +57,7 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 github "mysql",       "1.1.5"
 github "chrome",      "1.1.2"
+github "firefox",     "1.1.5"
 github "redis",       "1.1.0"
 github "imagemagick", "1.2.1"
 github "alfred",      "1.1.6"
