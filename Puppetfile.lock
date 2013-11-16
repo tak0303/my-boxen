@@ -59,6 +59,11 @@ GITHUBTARBALL
     imagemagick (1.2.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-mongodb
+  specs:
+    mongodb (1.0.5)
+
+GITHUBTARBALL
   remote: boxen/puppet-mysql
   specs:
     mysql (1.1.5)
@@ -162,6 +167,7 @@ DEPENDENCIES
   hub (= 1.0.3)
   imagemagick (= 1.2.1)
   inifile (= 1.0.0)
+  mongodb (= 1.0.5)
   mysql (= 1.1.5)
   nginx (= 1.4.2)
   nodejs (= 3.3.0)

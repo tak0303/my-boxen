@@ -65,4 +65,6 @@ github "sequel_pro",  "1.0.0"
 github "osx",         "2.0.0"
 github "zsh",         "1.0.0"
 github "ohmyzsh",     "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
-github "skype",        "1.0.6"
+github "skype",       "1.0.6"
+github "mongodb",     "1.0.5"
+

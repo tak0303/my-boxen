@@ -13,6 +13,7 @@ class people::tak0303 {
   include skype
   include zsh
   include ohmyzsh
+  include mongodb
 
   package {
     "Github for Mac":
