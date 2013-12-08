@@ -14,10 +14,5 @@ class people::tak0303 {
   include zsh
   include ohmyzsh
   include mongodb
-
-  package {
-    "Github for Mac":
-      source => "https://github-central.s3.amazonaws.com/mac/GitHub%20for%20Mac%20163.zip",
-      provider => "compressed_app";
-  }
+  include github_for_mac
 }
