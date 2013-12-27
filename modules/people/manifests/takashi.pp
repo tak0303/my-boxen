@@ -1,7 +1,7 @@
 # Class: people::tak0303
 #
 #
-class people::tak0303 {
+class people::takashi {
   # include your files...
   include chrome::canary
   include firefox
@@ -14,6 +14,8 @@ class people::tak0303 {
   include zsh
   include ohmyzsh
   include mongodb
+  include phantomjs
+  include hipchat
 
   package {
     "Github for Mac":
