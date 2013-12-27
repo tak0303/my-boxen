@@ -68,4 +68,4 @@ github "ohmyzsh",     "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
 github "skype",       "1.0.6"
 github "mongodb",     "1.0.5"
 github "hipchat",     "1.1.0"
-
+github "github_for_mac", "1.0.1"
