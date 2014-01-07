@@ -17,4 +17,10 @@ class people::takashi {
   include phantomjs
   include hipchat
   include github_for_mac
+
+  package {
+    [
+      'tree'
+    ]:
+  }
 }
