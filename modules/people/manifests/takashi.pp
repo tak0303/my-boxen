@@ -17,6 +17,8 @@ class people::takashi {
   include phantomjs
   include hipchat
   include github_for_mac
+  include java
+  include elasticsearch
 
   package {
     [
